@@ -1,6 +1,6 @@
-#Projeto individual Resilia Módulo 3
+# Projeto individual Resilia Módulo 3
 Você pode acessar a minha API através do link https://atividade-individual.onrender.com
-#Rotas
+# Rotas
 /ingresso
 /filmes
 /bomboniere
