@@ -19,27 +19,32 @@
     {
       "id": 1,
       "classificação": "livre",
-      "filme": "Adão Negro"
-    }
+      "filme": "Adão Negro",
+      "gênero": ""
+    },
     {
       "id": 2,
       "classificação": "12",
-      "filme": "Ingresso para o Paraíso"
-    }
+      "filme": "Ingresso para o Paraíso",
+      "gênero": ""
+    },
     {
       "id": 3,
       "classificação": "14",
-      "filme": "Sorria"
-    }
+      "filme": "Sorria",
+      "gênero": ""
+    },
     {
       "id": 4,
       "classificação": "16",
-      "filme": "Marte Um"
-    }
+      "filme": "Marte Um",
+      "gênero": ""
+    },
     {
       "id": 5,
       "classificação": "18",
-      "filme": "Carvão"
+      "filme": "Carvão",
+      "gênero": ""
     }
   ],
   "bomboniere": [
