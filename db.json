@@ -1,0 +1,60 @@
+{
+  "ingresso": [
+    {
+      "id": 1,
+      "filme": "",
+      "sessão": "",
+      "fileira": "",
+      "assento": "",
+      "forma de pagamento": [
+        {
+          "dinheiro": "",
+          "débito": "",
+          "crédito": ""
+        }
+      ]
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "classificação": "livre",
+      "filme": "Adão Negro"
+    }
+    {
+      "id": 2,
+      "classificação": "12",
+      "filme": "Ingresso para o Paraíso"
+    }
+    {
+      "id": 3,
+      "classificação": "14",
+      "filme": "Sorria"
+    }
+    {
+      "id": 4,
+      "classificação": "16",
+      "filme": "Marte Um"
+    }
+    {
+      "id": 5,
+      "classificação": "18",
+      "filme": "Carvão"
+    }
+  ],
+  "bomboniere": [
+    {
+     "snack": "",
+      "bebida": "",
+      "combo":"",
+      "forma de pagamento": [
+        {
+          "dinheiro": "",
+          "débito": "",
+          "crédito": ""
+        }
+      ] 
+    }
+  ]  
+}
+  
